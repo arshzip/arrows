@@ -1,0 +1,25 @@
+{
+  "_note": "Public release dates used for chart annotations. Sources in notes/release_dates.md. 'major' = drawn on the charts.",
+  "anthropic": [
+    {"model": "Claude Opus 4.5",   "date": "2025-11-24", "major": true},
+    {"model": "Claude Opus 4.6",   "date": "2026-02-05", "major": true},
+    {"model": "Claude Sonnet 4.6", "date": "2026-02-17", "major": true},
+    {"model": "Claude Opus 4.7",   "date": "2026-04-16", "major": true},
+    {"model": "Claude Opus 4.8",   "date": "2026-05-28", "major": true},
+    {"model": "Claude Fable 5 / Mythos 5", "date": "2026-06-09", "major": true},
+    {"model": "Claude Sonnet 5",   "date": "2026-07-01", "major": false, "_approx": "Impress Watch article dated 2026-07-01"},
+    {"model": "Claude Opus 5",     "date": "2026-07-24", "major": true},
+    {"model": "Claude Fable 5.1 / Mythos 5.1", "date": "2026-09-01", "major": false},
+    {"model": "Claude Opus 5.5",   "date": "2026-09-22", "major": true},
+    {"model": "Claude Sonnet 5.5", "date": "2026-09-28", "major": true},
+    {"model": "Claude Haiku 5.5",  "date": "2026-10-07", "major": false}
+  ],
+  "openai": [
+    {"model": "GPT-5.4",            "date": "2026-03-05", "major": true},
+    {"model": "GPT-5.5",            "date": "2026-04-23", "major": true},
+    {"model": "GPT-5.6 Sol/Terra/Luna (limited preview)", "date": "2026-06-26", "major": false},
+    {"model": "GPT-5.6 Sol/Terra/Luna (public)", "date": "2026-07-09", "major": true},
+    {"model": "GPT-6 Astra",        "date": "2026-09-03", "major": true},
+    {"model": "GPT-6 Sol / Luna",   "date": "2026-09-22", "major": true}
+  ]
+}
